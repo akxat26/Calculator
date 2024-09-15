@@ -1,0 +1,1 @@
+This project uses simple text-based input/output, where the user inputs two numbers and an operation to receive the result. It also includes error handling for invalid inputs, such as division by zero, and ensures the program runs smoothly without crashing.
